@@ -799,7 +799,7 @@ var _gsScope = "undefined" != typeof module && module.exports && "undefined" != 
 		// Strokestyle color change as you need ...:)
         function h(t) {
             if (t.active)
-                for (var e in t.closest) m.beginPath(), m.moveTo(t.x, t.y), m.lineTo(t.closest[e].x, t.closest[e].y), m.strokeStyle = "rgba(255,255,255," + t.active + ")", m.stroke()
+                for (var e in t.closest) m.beginPath(), m.moveTo(t.x, t.y), m.lineTo(t.closest[e].x, t.closest[e].y), m.strokeStyle = "rgba(255,0,0," + t.active + ")", m.stroke()
         }
 
 		// Strokestyle color change as you need ...:)
