@@ -3,7 +3,7 @@
 	padding: 0;
 }
 .large-header {
-	background: #17171f;
+	background: #313136;
 }
 .large-header canvas {
     position: absolute;
@@ -17,4 +17,5 @@
 #new{
     position: relative;
     z-index: 1;
+    font-size: 60px;
 }
