@@ -3,7 +3,7 @@
 	padding: 0;
 }
 .large-header {
-	background: #313136;
+	background: #000000;
 }
 .large-header canvas {
     position: absolute;
@@ -27,5 +27,5 @@
 
 #logo{
     width: 30%;
-    height: 100px;
+    height: 120px;
 }
