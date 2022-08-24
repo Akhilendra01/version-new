@@ -3,7 +3,7 @@
 	padding: 0;
 }
 .large-header {
-	background: #000000;
+	background: linear-gradient(to bottom left, #000000, rgb(0, 74, 173));;
 }
 .large-header canvas {
     position: absolute;
